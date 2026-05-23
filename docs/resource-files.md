@@ -10,6 +10,6 @@ Resource slug: websocket-reconnection-kit
 
 ## Included Files
 
-- resources/README.md (1848 bytes)
+- resources/README.md (1870 bytes)
 - resources/reconnection-checklist.md (5929 bytes)
 - resources/websocket-manager.ts (15706 bytes)

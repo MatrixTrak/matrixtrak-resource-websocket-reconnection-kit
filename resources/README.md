@@ -41,4 +41,4 @@ REST snapshot after reconnect to verify local state matches exchange. Catches fi
 
 ## Related Blog Post
 
-[WebSocket Disconnects in Trading Bots: Reconnection That Actually Works](/blog/websocket-disconnects-trading-bots-reconnection)
+[WebSocket Disconnects in Trading Bots: Reconnection That Actually Works](https://matrixtrak.com/blog/websocket-disconnects-trading-bots-reconnection)

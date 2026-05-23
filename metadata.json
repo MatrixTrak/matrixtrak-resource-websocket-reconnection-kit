@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T12:44:47.113Z",
+  "generatedAt": "2026-05-23T12:57:46.845Z",
   "resourceSlug": "websocket-reconnection-kit",
   "title": "WebSocket Reconnection Kit",
   "description": "WebSocket manager template with automatic reconnection, gap detection, and state recovery for trading bots.",
