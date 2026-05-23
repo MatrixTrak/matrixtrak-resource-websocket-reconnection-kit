@@ -1,10 +1,17 @@
 {
-  "generatedAt": "2026-05-23T12:20:19.170Z",
+  "generatedAt": "2026-05-23T12:44:47.113Z",
   "resourceSlug": "websocket-reconnection-kit",
   "title": "WebSocket Reconnection Kit",
   "description": "WebSocket manager template with automatic reconnection, gap detection, and state recovery for trading bots.",
   "category": "Crypto Automation",
   "pillar": "automation",
+  "access": "free",
+  "sourcePublicPath": "/ship/automation/websocket-disconnects-trading-bots-reconnection",
+  "includedRepoFiles": [
+    "resources/README.md",
+    "resources/reconnection-checklist.md",
+    "resources/websocket-manager.ts"
+  ],
   "canonicalResourceUrl": "https://matrixtrak.com/resources/websocket-reconnection-kit",
   "primaryPostSlugs": [
     "websocket-disconnects-trading-bots-reconnection"

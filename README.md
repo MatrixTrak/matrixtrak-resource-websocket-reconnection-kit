@@ -17,6 +17,16 @@ It is designed for quick implementation support, community sharing, and stable v
 
 WebSocket manager template with automatic reconnection, gap detection, and state recovery for trading bots.
 
+## Repository Contents
+
+- `resources/` contains shipped files copied from MatrixTrak public ship assets when available
+- `docs/post-mapping.md` maps this resource to related blog posts
+- `docs/resource-files.md` lists included files and source mapping
+- Included shipped files:
+  - resources/README.md
+  - resources/reconnection-checklist.md
+  - resources/websocket-manager.ts
+
 ## Who This Is For
 
 - Engineers handling production incidents and reliability gaps
